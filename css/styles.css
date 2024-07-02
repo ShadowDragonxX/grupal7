@@ -4,6 +4,14 @@
 /* **************************************************************************** */
                             /* ESTILOS GENERALES */
 
+h1 {
+  color: #8ec54e;
+  font-family: fantasy;
+  font-size: xx-large;
+  -webkit-text-stroke: 2px white;
+  letter-spacing: 2px;
+}
+
 .centrado {  text-align: center; }
 html {
   font-size: 16px;             font-family: "Roboto", sans-serif;
