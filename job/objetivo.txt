@@ -1,0 +1,24 @@
+DESARROLLO
+En el ejercicio anterior agregaste estilos al proyecto en un archivo independiente, aplicaste sobre éste
+el framework Bootstrap, implementaste funciones de validación con JavaScript y aprendiste a utilizar
+plugins basados en jQuery.
+
+Como parte de esta actividad se solicita lo siguiente:
+- Cree un nuevo proyecto Git local.
+- Copie al repositorio los archivos del proyecto
+- Crear una nueva versión del repositorio local
+- Crear un usuario GitHub
+- Subir el repositorio a una cuenta GitHub (esto lo hará solo un alumno)
+- El alumno que subió el repositorio, le dará acceso a sus compañeros de equipo
+- Los demás integrantes del equipo clonarán el repositorio existente en la nube en sus equipos
+locales.
+- Cada integrante del equipo hará un cambio que no genere conflictos y lo subirá.
+- Alguien del equipo debe juntar todos los cambios propuestos; de existir conflictos debe
+resolverlos previamente.
+
+Consideraciones generales
+- A modo de entrega se pide enviar un archivo Word con la evidencia (al menos tres fotos) del
+trabajo realizado. Debe incluir en el Word la URL del repositorio GitHub, y los nombres de los
+integrantes del equipo.
+- El tiempo máximo para resolver la evaluación es el periodo correspondiente a una clase regular.
+- Equipos máximos de 4 integrantes.

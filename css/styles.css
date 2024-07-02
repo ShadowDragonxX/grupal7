@@ -1,0 +1,98 @@
+/* ESTILOS DE LA PAGINA DE CONTACTO */
+@import "/css/contacto.css";
+
+/* **************************************************************************** */
+                            /* ESTILOS GENERALES */
+
+.centrado {  text-align: center; }
+html {
+  font-size: 16px;             font-family: "Roboto", sans-serif;
+  margin-top: 0;
+}
+
+/* Body */
+.container {
+  background-color: rgb(207, 227, 194);
+  padding: 27px;
+  text-align: -webkit-center;
+  line-height: 1;
+}
+
+/* **************************************************************************** */  
+                                    /* Navbar */
+nav {
+  background-color: rgb(142, 197, 78);
+  border-radius: 7px;
+  padding: 3px;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  text-align: -webkit-center;
+  padding: 11px;
+  background-color: rgb(142, 197, 78);
+}
+nav li {
+  display: inline-block;
+  margin-left: 7px;             margin-right: 7px;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  padding: 5px 15px;
+  border-radius: 5px;
+
+  background-color: rgb(245, 245, 228);
+}
+
+/* ***************************************************************************** */
+                                    /* Main */
+/* Quienes somos */
+.quienes-somos {
+  height: 200px;
+  margin-bottom: 13px;
+  align-content: center;
+}
+
+/* ***************************************************************************** */
+                                  /* Productos */
+.productos {
+  display: -webkit-inline-box;
+  padding: 2px;
+  width: -webkit-fill-available;
+  inline-size: max-content;
+}
+.productos ol {
+  list-style: none;
+  padding: 0;
+  margin: 0px 15px 0px 15px;
+}
+
+/* ***************************************************************************** */
+                                  /* Galería */
+
+.rec-galeria {
+  padding: 1rem;
+  text-align: center;
+  content-visibility: auto;
+}
+.galeria {
+  width: 614px;                   height: 405px;          max-height: 405px;
+  margin-bottom: 13px;            margin-left: 7px;       margin-right: 7px;
+  border-radius: 20px;
+}
+
+/* ***************************************************************************** */
+                                  /* Footer */
+  footer {
+    background-color: rgb(142, 197, 78);
+    border-radius: 7px;
+    text-align: center;
+    padding: 10px;
+  }
+
+/* ***************************************************************************** */
+                              /* Contacto */
+                              
+.contacto {   
+  margin: 0.5rem;  }

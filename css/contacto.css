@@ -1,0 +1,53 @@
+/* CSS de pagina de contacto */
+.inputform {
+  margin: 0.5rem;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(245, 245, 228);
+  text-align: -webkit-right;
+}
+.button-like {
+  /* display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px; */
+  color: white;
+  background-color: #007bff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: rgb(80, 105, 51);
+  border-radius: 7px;
+  text-align: webkit-right;
+  padding: 10px;
+}
+
+textarea {
+  margin: 0.5rem;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(245, 245, 228);
+  text-align: -webkit-right;
+  width: 90%;
+}
+
+textarea::placeholder {
+  text-align: left;
+}
+
+button {
+  margin: 2.5rem 0;
+  padding: 0.8%;
+  font-size: large;
+  border-radius: 9px;
+  /* background-color: rgb(96, 202, 26); */
+}
+
+#errorMessages {
+  color: red;
+  text-align: left;
+  margin: 1rem;
+  padding-left: 1rem;
+}
