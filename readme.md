@@ -3,11 +3,11 @@ Integrantes:
 
 | Integrante       | Apodo Github     | nombre de rama |
 | ---------------- | ---------------- | -------------- |
-| Carlos Quezada   | ShadowDragonxX   |                |
+| Carlos Quezada   | cquezadagg       | c.quezada      |
 | Claudio Aranguiz | Claudio-Aranguiz | claudio        |
-| Jorge Delgado    | j0d0ne           |                |
-| Taysha Coleto    | taysha-ct        |                |
-| Tomas Escobar    |                  |                |
+| Jorge Delgado    | j0d0ne           | jorge          |
+| Taysha Coleto    | taysha-ct        | taysha         |
+| Tomas Escobar    | f0ryy            | Tomas          |
 
 
 
@@ -18,29 +18,27 @@ Este proyecto es una página web para una verdurería que incluye diferentes sec
 
 ## Estructura del Proyecto
 
+```markdown
+    ├── assets
+    │ ├── css
+    │ │ ├── contacto.css
+    │ │ ├── styles.css
+    │ ├── icon
+    │ │ ├── favicon.ico
+    │ ├── img
+    │ │ ├── IMG_20240608_175047.jpg
+    │ │ ├── fruit-bowl.jpg
+    │ │ ├── 16854588843943.jpg
+    │ │ ├── Kichererbsen-verarbeiten.png
+    │ │ ├── OIG1.png
+    │ ├── js
+    │ │ ├── funciones.js
+    │ │ ├── script.js
+    ├── index.html
+    ├── contacto.html
+    ├── estadistica.html
 
-
-Proyecto
-
-
-├── assets
-│ ├── css
-│ │ ├── contacto.css
-│ │ ├── styles.css
-│ ├── icon
-│ │ ├── favicon.ico
-│ ├── img
-│ │ ├── IMG_20240608_175047.jpg
-│ │ ├── fruit-bowl.jpg
-│ │ ├── 16854588843943.jpg
-│ │ ├── Kichererbsen-verarbeiten.png
-│ │ ├── OIG1.png
-│ ├── js
-│ ├── funciones.js
-│ ├── script.js
-├── index.html
-├── contacto.html
-├── estadistica.html
+```
 
 
 ## Descripción de los Archivos
