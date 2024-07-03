@@ -6,6 +6,7 @@
   background-color: rgb(245, 245, 228);
   text-align: -webkit-right;
 }
+
 .button-like {
   /* display: inline-block;
     padding: 10px 20px;
@@ -30,7 +31,7 @@ textarea {
   border-radius: 5px;
   background-color: rgb(245, 245, 228);
   text-align: -webkit-right;
-  width: 90%;
+  /* width: 90%; */
 }
 
 textarea::placeholder {
